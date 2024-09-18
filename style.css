@@ -1,0 +1,14 @@
+@media screen and (max-width:678px) {
+    #favoritesdiv{
+        left: 50px;
+        top: 30px;
+    }
+}
+@media screen and (max-width:500px) {
+    #favoritesdiv{
+       width: 90%;
+       margin: auto;
+       position: inherit;
+    }
+}
+
